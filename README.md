@@ -85,5 +85,5 @@ sudo tail -20 /var/log/security-violations.log
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/jonathanwdoolangrc)
+- [LinkedIn](https://www.linkedin.com/in/jonathanwdoolan)
 - Email: doolanjw0@gmail.com
